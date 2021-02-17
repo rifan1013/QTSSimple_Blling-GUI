@@ -1,0 +1,20 @@
+C:\Users\Nadeera\source\repos\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\Nadeera\source\repos\Billing System\bin\Debug\Billing System.exe
+C:\Users\Nadeera\source\repos\Billing System\bin\Debug\Billing System.pdb
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing_System.Form1.resources
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing System.exe
+C:\Users\Nadeera\source\repos\Billing System\obj\Debug\Billing System.pdb
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\bin\Debug\Billing System.exe
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing_System.Form1.resources
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing System.exe
+C:\Users\RI_FAN\Desktop\QTS TRAINING\GUI-designing-for-Billing-System\Billing System\obj\Debug\Billing System.pdb
